@@ -1,3 +1,3 @@
 Test
 
-autocommiter2
+autocommiter
